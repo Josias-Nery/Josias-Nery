@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/Josias-Nery">
-  <img height=160em aling:"center" src="https://github-readme-stats.vercel.app/api?username=Josias-Nery&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+  <img height=160em aling:"center" src="https://github-readme-stats.vercel.app/api?username=Josias-Nery&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height=160em aling:"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josias-Nery&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
